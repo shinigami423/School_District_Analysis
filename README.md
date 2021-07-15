@@ -62,25 +62,29 @@ Taking a quick look a the __% Passing Math__, __% Passing Reading__, and __% Ove
 - % Passing Reading increased from 69.7% to 97.0%
 - % Overall Passing increased from 65.1% to 90.6%
 
-## Summary
+## School Summary Overall
 The result of replaceing the 9th graders math and reading score and updating the average of passing grades to the averge of 10th-12th graders' passing grades changed
-the outcome of the "High and Low Performing School. Thomas High School became the Top 2nd School when we filter by the highest __% Overall Passing__.
--------------------------------------------
+
+### School Summary Overall
 The math and reading scores by grade did not change much. The only difference are the values we assigned to 9th graders for Thomas High Schools for, which should be nan for both charts(below):
 ![](ths_math.PNG)
-![](ths_reading.PNG)\
--------------------------------------------
+![](ths_reading.PNG)
+**We replaced the grades for the 9th graders from Thomas High School and replaced it with "NaN"
+
+### School Summary by Spending
 The only noticible change when we take a look at the spending summary is the change in % Passing Math, % Passing Reading, and % % Overall Passing between the Spending Ranges of $630 tp $644.
 ![](Resources/spending_summary_1.PNG)
 ![](Resources/spending_summary_2.PNG)
 
 - % Passing Math decreased from 73% to 67% between the Spending Ranges of $630-$644.
-- % Passing Reading decreased from 84% to 62% between the Spending Ranges of $630-$644.
+- % Passing Reading decreased from 84% to 77% between the Spending Ranges of $630-$644.
 - % Overall Passing decreased from 62% to 56% between the Spending Ranges of $630-$644.
 
-There was no change to the Scores by School Size when we replaced the averages using the average grades of 10th-12th graders from Thomas High School in the per_school_sumamry_df.
 
+### School Summary by Size
+There was no change to the Scores by School size when we replaced the averages using the average grades of 10th-12th graders from Thomas High School in the per_school_sumamry_df.
 
+### School Summary by Type
 There was no change to the Scores by school type when we replaced the averages using the average grades of 10th-12th graders from Thomas High School in the per_school_sumamry_df.
 
 
