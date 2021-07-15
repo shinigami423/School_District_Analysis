@@ -33,9 +33,9 @@ Looking a the district summary upon the removal of the reported data:
 - Total budget does not change
 - __Average Math Score__ fell by 0.1%
 - __Average Reading Score__ does not seem to have changed.
-- __% Passing Math__dropped 0.2%
-- __% Passing Reading__dropped by 0.3%.
-- The __% Overall Passing__ dropped by 0.1%.
+- __Percent Passing Math__dropped 0.2%
+- __Percent Passing Reading__dropped by 0.3%.
+- __Percent Overall Passing__ dropped by 0.1%.
 
 
 
@@ -62,7 +62,7 @@ Taking a quick look a the __% Passing Math__, __% Passing Reading__, and __% Ove
 - % Passing Reading increased from 69.7% to 97.0%
 - % Overall Passing increased from 65.1% to 90.6%
 
-## School Summary Overall
+## School Summary
 The result of replaceing the 9th graders math and reading score and updating the average of passing grades to the averge of 10th-12th graders' passing grades changed
 
 ### School Summary Overall
@@ -72,7 +72,7 @@ The math and reading scores by grade did not change much. The only difference ar
 **We replaced the grades for the 9th graders from Thomas High School and replaced it with "NaN"
 
 ### School Summary by Spending
-The only noticible change when we take a look at the spending summary is the change in % Passing Math, % Passing Reading, and % % Overall Passing between the Spending Ranges of $630 tp $644.
+The only noticible change when we take a look at the spending summary is the change in % Passing Math, % Passing Reading, and % % Overall Passing between the Spending Ranges of $630 to $644.
 ![](Resources/spending_summary_1.PNG)
 ![](Resources/spending_summary_2.PNG)
 
