@@ -33,9 +33,9 @@ Looking a the district summary upon the removal of the reported data:
 - Total budget does not change
 - __Average Math Score__ fell by 0.1%
 - __Average Reading Score__ does not seem to have changed.
-- __Percent Passing Math__dropped 0.2%
-- __Percent Passing Reading__dropped by 0.3%.
-- __Percent Overall Passing__ dropped by 0.1%.
+- __% Passing Math__ dropped 0.2%
+- __% Passing Reading__ dropped by 0.3%.
+- __% Overall Passing__ dropped by 0.1%.
 
 
 
